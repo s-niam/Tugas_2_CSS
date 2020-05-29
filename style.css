@@ -1,0 +1,25 @@
+/*selector h1*/
+h1{
+    text-transform: capitalize;
+}
+/*class selector*/
+.p_pertama{
+    text-align: justify;
+}
+/*ID Selector*/
+#p_kedua{
+    text-decoration: underline;
+}
+/*universal selector*/
+*{
+    color: white;
+    background-color: green;
+}
+/*grup selectoe*/
+.p_tiga,.p_empat{
+    text-align: center;
+}
+/*spesific selector*/
+.p_lima.p_lima{
+    text-decoration: line-through;
+}
